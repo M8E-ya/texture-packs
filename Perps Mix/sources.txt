@@ -1,0 +1,39 @@
+Loka+ by Skuhoo:				Firestone
+						Ancient Ingots "fixed"
+
+Faithful 1.16.3 by Faithful Team:		Font
+
+Faithful-1.18 Armor by Faithful Team:    	Armor/Models
+
+Transparent GUI by VirxEC:			GUI
+						widgets.png edited from Default
+
+OCD Pack 1.18.1 v1.3 by AntonLandao:		Basically the whole base pack tbh
+
+Low-Fire from Lunar client:			Fire
+                                                Soulfire edited from Fire
+
+Faithful 1.16.4 by Faithful Team:		Sword Hilts edited
+						(Sword Blades based on Default and MaxHaxPax by Heydood)
+
+Default:					enchanted_item_glint.png edited
+						enchanted_hit.png edited
+
+Unobtrusive Rain/Snow by Vanilla Tweaks:         Blocks/rain.png     
+                                                 Blocks/snow.png
+
+Water Improved by HotTubBug:                     Block/water_flow.png
+                                                 Block/water_overlay.png
+                                                 Block/water_still.png
+                                                 Misc/underwater.png
+
+Perps personal edits:                           Clean Redstone Dust
+	                                        Better Observers 
+	                                        Directional Dispensers Droppers
+	                                        Directional Hoppers
+                                                Visible Tripwires
+                                                Addon/BrewingGuide
+	
+
+
+	

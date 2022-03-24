@@ -1,0 +1,60 @@
+{
+	"overrides": [
+		{
+			"model": "",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "[2, 2]"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "[2, 2]"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "[2, 2]"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "[2, 2]"
+						}
+					]
+				}
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": ""
+	}
+}

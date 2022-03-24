@@ -1,0 +1,34 @@
+{
+	"overrides": [
+		{
+			"model": "",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "An ancient ingot with reparative qualities."
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "An ancient ingot with reparative qualities."
+						}
+					}
+				}
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp:item/ancient_ingot"
+	}
+}

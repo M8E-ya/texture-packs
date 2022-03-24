@@ -1,0 +1,26 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp:item/misc/firestone/firestone",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"firestone": "1"
+				}
+			}
+		},
+		{
+			"model": "mcpppp:item/misc/firestone/firestone",
+			"predicate": {
+				"name": "",
+				"nbt": {
+					"firestone": "1"
+				}
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": ""
+	}
+}

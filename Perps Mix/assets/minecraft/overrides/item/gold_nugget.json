@@ -1,0 +1,92 @@
+{
+	"overrides": [
+		{
+			"model": "",
+			"predicate": {
+				"nbt": {
+					"display": {
+						"Name": {
+							"nbt": {
+								"firestonefrag": "1"
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"nbt": {
+					"display": {
+						"Name": {
+							"nbt": {
+								"firestonefrag": "1"
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"nbt": {
+					"display": {
+						"Name": {
+							"nbt": {
+								"firestonefrag": "1"
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"nbt": {
+					"display": {
+						"Name": {
+							"nbt": {
+								"firestonefrag": "1"
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"nbt": {
+					"display": {
+						"Name": {
+							"nbt": {
+								"firestonefrag": "1"
+							}
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"nbt": {
+					"display": {
+						"Name": {
+							"nbt": {
+								"firestonefrag": "1"
+							}
+						}
+					}
+				}
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp:item/firestone_bottom"
+	}
+}
